@@ -29,7 +29,7 @@ If you use this dataset, please cite:
 M. Cheshire, *Kick Drum Microphone Taxonomy: Timbral Clustering of Controlled Kick-Out Recordings*, in Proc. AES 159th Convention, Long Beach, 2025.
 
 **Dataset (GitHub/Zenodo):**  
-M. Cheshire, *Kick Drum Microphone Dataset*, Zenodo, 2025. DOI: [placeholder — will update after Zenodo release].
+M. Cheshire, kick-taxonomy-aes-159th, Zenodo, 2025. DOI: [https://doi.org/10.5281/zenodo.17137497].
 
 ## Licence
 This dataset is released under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** licence.  
